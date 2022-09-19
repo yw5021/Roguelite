@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf86f9ca93a5864198bc526948ded51, type: 3}
+  m_Name: ArtifactData4
+  m_EditorClassIdentifier: 
+  index: 4
+  sprite: {fileID: 21300000, guid: 4408269a96438e84796304f4ac0ed623, type: 3}
+  price: 50
+  itemName: "\uC591\uCD08"
+  descript: "\uBC84\uD504\uC2A4\uD0AC\uC758 \uC9C0\uC18D\uC2DC\uAC04\uC774 \uC99D\uAC00\uD569\uB2C8\uB2E4"
+  effectType: buffDuration
+  effectBaseValue: 0.1
+  effectStackValue: 0.05
